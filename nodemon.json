@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts, gql",
+  "ignore": ["**/*.test.ts", "**/*.spec.ts", ".git"],
+  "exec": "ts-node ./src/app.ts"
+}
